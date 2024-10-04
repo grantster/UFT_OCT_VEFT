@@ -31,10 +31,11 @@ Default Profile=default.usp
 Lang=none
 
 [TulipInfo]
-ProductName=Micro Focus UFT One
-Version=2023
+ProductName=OpenText UFT One
+Version=24.2
 
 [TulipAddins]
+AF=
 AI=
 Database=
 File Content=
@@ -42,6 +43,7 @@ Insight=
 Windows Applications=
 TEA=
 Web=
+WPF=
 XML=
 
 [ExtraFiles]
